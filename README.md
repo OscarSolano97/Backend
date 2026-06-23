@@ -85,3 +85,7 @@ Luego abre:
 
 
 ## Pantallazos del funcionamiento de mi app
+
+<img width="1182" height="491" alt="image" src="https://github.com/user-attachments/assets/e6269e35-c1c9-4ff4-83d0-ff4953dd0297" />
+
+

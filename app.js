@@ -3,9 +3,7 @@ const app = express();
 const port = 3000;
 //const host = '10.5.225.150';
 
-app.get('/', (req, res) => {
-  res.json({ message: 'Bienvenido al sistema de gestión.' });
-});
+
 
 app.get('/aprendices', (req, res) => {
   res.json({ aprendices: ['Juan', 'Pedro', 'María', 'Ana', 'Luis'] });
